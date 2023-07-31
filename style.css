@@ -1,5 +1,4 @@
-@media (max-width: 2400px) {
-  body {
+body {
   font-family: 'Abel', sans-serif;
   font-size: small;
 }
@@ -49,7 +48,6 @@ div {
 
 ul {
   padding-left: 0;
-}
 }
 
 @media (max-width: 940px) {
